@@ -11,13 +11,13 @@ is merged.
 
         | Mon, Oct 13           | Tue, Oct 14           | Wed, Oct 15           | Thu, Oct 16           |
 --------|:----------------------|:----------------------|:----------------------|:----------------------|
-Slot 1  |                       |                       |                       |                       |
+Slot 1  |                       |                       | Alicija               | Jason (Fish shell)    |
 Slot 2  |                       |                       |                       |                       |
 
         | Mon, Oct 20           | Tue, Oct 21           | Wed, Oct 22           | Thu, Oct 23           |
 --------|:----------------------|:----------------------|:----------------------|:----------------------|
-Slot 1  | Pat                   | Michelle         |                       | Casey                 |
-Slot 2  |                       |                       |                       |                       |
+Slot 1  | Pat                   | Michelle              |  Charles Gust         | Casey                 |
+Slot 2  | Charlie               | Mark                  |  Ben Friedland        |                       |
 
 
 
@@ -27,12 +27,12 @@ Slot 2  |                       |                       |                       
 
         | Mon, Nov 10           | Tue, Nov 11           | Wed, Nov 12           | Thu, Nov 13           |
 --------|:----------------------|:----------------------|:----------------------|:----------------------|
-Slot 1  |                       |                       |                       |                       |
+Slot 1  |                       | Alicija               |                       |                       |
 Slot 2  |                       |                       |                       |                       |
 
         | Mon, Nov 17           | Tue, Nov 18           | Wed, Nov 19           | Thu, Nov 20           |
 --------|:----------------------|:----------------------|:----------------------|:----------------------|
-Slot 1  |                       |                       |                       |                       |
+Slot 1  |   Michelle            |  Pat                  |                       |                       |
 Slot 2  |                       |                       |                       |                       |
 
 
