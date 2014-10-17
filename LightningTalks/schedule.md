@@ -36,3 +36,17 @@ Slot 1  |   Michelle            |  Pat                  |                       
 Slot 2  |                       |                       |                       |                       |
 
 
+
+## Topics
+
+Here's a list of some interesting topics that I think might be interesting for python developers.
+
+* PyPy - Stackless Python
+* Unicode DNS
+* Property Based Testing
+* Jython
+* HyperMedia vs. ReST
+* PostgreSQL JSON Type
+
+
+
