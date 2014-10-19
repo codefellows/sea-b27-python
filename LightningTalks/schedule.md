@@ -16,7 +16,7 @@ Slot 2  |                       |                       |                       
 
         | Mon, Oct 20           | Tue, Oct 21           | Wed, Oct 22           | Thu, Oct 23           |
 --------|:----------------------|:----------------------|:----------------------|:----------------------|
-Slot 1  | Pat                   | Michelle              |  Charles (Nitrous.io) | Casey                 |
+Slot 1  | Pat                   | Michelle              |  Charles (Nitrous.io) | Casey(micropython)                 |
 Slot 2  | Charlie               | Mark                  |  Ben Friedland        |                       |
 
 
@@ -33,7 +33,7 @@ Slot 2  |                       |                       |                       
         | Mon, Nov 17           | Tue, Nov 18           | Wed, Nov 19           | Thu, Nov 20           |
 --------|:----------------------|:----------------------|:----------------------|:----------------------|
 Slot 1  |   Michelle            |  Pat                  |                       |                       |
-Slot 2  |                       |                       |                       |                       |
+Slot 2  |                       |  Casey(sympy, pandas)                   |                       |                       |
 
 
 
