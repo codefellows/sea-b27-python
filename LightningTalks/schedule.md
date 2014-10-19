@@ -16,7 +16,7 @@ Slot 2  |                       |                       |                       
 
         | Mon, Oct 20           | Tue, Oct 21           | Wed, Oct 22           | Thu, Oct 23           |
 --------|:----------------------|:----------------------|:----------------------|:----------------------|
-Slot 1  | Pat                   | Michelle              |  Charles Gust         | Casey                 |
+Slot 1  | Pat                   | Michelle              |  Charles (Nitrous.io) | Casey                 |
 Slot 2  | Charlie               | Mark                  |  Ben Friedland        |                       |
 
 
@@ -27,7 +27,7 @@ Slot 2  | Charlie               | Mark                  |  Ben Friedland        
 
         | Mon, Nov 10           | Tue, Nov 11           | Wed, Nov 12           | Thu, Nov 13           |
 --------|:----------------------|:----------------------|:----------------------|:----------------------|
-Slot 1  |                       | Alicija               |                       |                       |
+Slot 1  |                       | Alicija               | Charles (IP/Patents)  |                       |
 Slot 2  |                       |                       |                       |                       |
 
         | Mon, Nov 17           | Tue, Nov 18           | Wed, Nov 19           | Thu, Nov 20           |
