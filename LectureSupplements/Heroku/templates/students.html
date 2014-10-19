@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Springfield Elementary Phone Tree</title>
+    </head>
+
+    <body>
+        <h1>Phone Tree</h1>
+        <ul>
+            {% for fname, lname in students %}
+                <li>{{lname}}, {{fname}}</li>
+            {% endfor %}
+        </ul>
+    </body>
+</html>
