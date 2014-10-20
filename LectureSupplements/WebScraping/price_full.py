@@ -29,7 +29,7 @@ def extract_fields_from_item_page(item_page_url):
     resp = urllib2.urlopen(item_page_url)
     if resp.getcode() == 200:
         page_data = BeautifulSoup(resp.read())
-        title = page_data.meta(property="og:title")[0]["content"]
+        title = page_data.find(class_="productTitle").get_text()
         ingredients = page_data.find(class_="ProductIngredients").get_text()
         return {"name": title, "ingredients": ingredients}
     else:
@@ -52,5 +52,5 @@ if __name__ == "__main__":
 Item: %s
 
 Ingredients: %s
-    """ % (item_data["title"], item_data["ingredients"]) 
+    """ % (item_data["name"], item_data["ingredients"]) 
 
