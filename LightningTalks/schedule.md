@@ -16,8 +16,8 @@ Slot 2  |                       |                       |                       
 
         | Mon, Oct 20           | Tue, Oct 21           | Wed, Oct 22           | Thu, Oct 23           |
 --------|:----------------------|:----------------------|:----------------------|:----------------------|
-Slot 1  | Pat                   | Michelle              |  Charles (Nitrous.io) | Casey(micropython)                 |
-Slot 2  | Charlie               | Mark                  |  Ben (pygame)         |                       |
+Slot 1  | Pat                   | Michelle              |  Charles (Nitrous.io) | Casey(micropython)    |
+Slot 2  |                       | Mark                  |  Ben (pygame)         | Charlie               |
 
 
 
@@ -45,7 +45,6 @@ Here's a list of some interesting topics that I think might be interesting for p
 * Unicode DNS
 * Property Based Testing
 * Jython
-* HyperMedia vs. ReST
 * PostgreSQL JSON Type
 
 
