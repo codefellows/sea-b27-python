@@ -32,8 +32,8 @@ Slot 2  |                       |                       |                       
 
         | Mon, Nov 17           | Tue, Nov 18           | Wed, Nov 19           | Thu, Nov 20           |
 --------|:----------------------|:----------------------|:----------------------|:----------------------|
-Slot 1  |  Michelle             |  Casey(sympy, pandas) |  Charles (IP/Patents) |  Charlie              |
-Slot 2  |  Ben (procedural gen) |  Mark                 |  Jason                |                       |
+Slot 1  |  Michelle             |  Casey(serial comm)   |  Charles (IP/Patents) |  Charlie              |
+Slot 2  |                       |  Mark                 |  Jason                |  Ben (procedural gen) |
 
 
 
