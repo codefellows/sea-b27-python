@@ -43,6 +43,4 @@ def deploy_node():
     # Note that open_shell was not working in the example we ran through
     subnet_id = create_network()
     node_ip = create_server(subnet_id)
-    print node_ip
     env["hosts"] = [node_ip]
-    open_shell()
