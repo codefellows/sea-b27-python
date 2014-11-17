@@ -27,13 +27,13 @@ Slot 2  |                       | Mark                  |  Ben (pygame)         
 
         | Mon, Nov 10           | Tue, Nov 11           | Wed, Nov 12           | Thu, Nov 13           |
 --------|:----------------------|:----------------------|:----------------------|:----------------------|
-Slot 1  |                       | Alicija               | Charles (IP/Patents)  |                       |
+Slot 1  |                       |                       |                       |                       |
 Slot 2  |                       |                       |                       |                       |
 
         | Mon, Nov 17           | Tue, Nov 18           | Wed, Nov 19           | Thu, Nov 20           |
 --------|:----------------------|:----------------------|:----------------------|:----------------------|
-Slot 1  |   Michelle            | Casey(sympy, pandas)  |                       |                       |
-Slot 2  |  Ben (procedural gen) |  Mark                 | Jason                 |                       |
+Slot 1  |  Michelle             |  Casey(sympy, pandas) |  Charles (IP/Patents) |  Charlie              |
+Slot 2  |  Ben (procedural gen) |  Mark                 |  Jason                |                       |
 
 
 
