@@ -4,7 +4,6 @@ Java style synchronized keyword semantics on methods of a
 class.
 """
 from threading import Lock
-import inspect
 
 
 # The only way to ensure that our lock is injected once on the object instance
